@@ -5,7 +5,7 @@ The extension gives you the possibility to change the output of e. g. field "pho
 (e. g.: ``` <a href="tel:00493829839" title="my title">+49 382 983 9</a> ```)
 
 ## to use in typoscript e. g.:
-
+```
 plugin.tx_ttaddress_pi1 {
   pidList = 20
   templatePath = fileadmin/Template/Extensions/tt_address/
@@ -28,6 +28,7 @@ plugin.tx_ttaddress_pi1 {
     }
   }
 }
+```
 
 ### Known Issues
   - none so far

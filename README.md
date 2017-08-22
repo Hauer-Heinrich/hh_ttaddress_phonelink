@@ -2,7 +2,7 @@
 
 ## What does it do?
 The extension gives you the possibility to change the output of e. g. field "phone" with a link wrap.
-(e. g.: <a href="tel:00493829839" title="my title">+49 382 983 9</a>)
+(e. g.: ``` <a href="tel:00493829839" title="my title">+49 382 983 9</a> ```)
 
 ## to use in typoscript e. g.:
 
